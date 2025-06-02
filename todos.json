@@ -1,0 +1,36 @@
+[
+  {
+    "Username": "Mustafa*53",
+    "Todos": [
+      {
+        "title": "bring coffee\n",
+        "completed": false,
+        "created_at": "2025-06-02T15:08:29.858334+05:30",
+        "completed_at": null,
+        "priority": 2,
+        "username": "Mustafa*53"
+      }
+    ]
+  },
+  {
+    "Username": "admin",
+    "Todos": [
+      {
+        "title": "Make cofeee \n",
+        "completed": false,
+        "created_at": "2025-06-02T15:29:52.783617+05:30",
+        "completed_at": null,
+        "priority": 4,
+        "username": "admin"
+      },
+      {
+        "title": "Go to mall\n",
+        "completed": false,
+        "created_at": "2025-06-02T15:30:20.534848+05:30",
+        "completed_at": null,
+        "priority": 3,
+        "username": "admin"
+      }
+    ]
+  }
+]
